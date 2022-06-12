@@ -6,8 +6,6 @@
 
 ### `—◉ ✨ ACTIVAR EN HEROKU ✨`
 ```bash
-AÑADE AL APARTADO DE BUILPACK LO SIGUIENTE, SI YA APARCEN SOLO IGNORA ESTA PARTE:
-> heroku/nodejs   pronto uwu
 
 
 ### `—◉ ⚙️ AJUSTES ⚙️`
