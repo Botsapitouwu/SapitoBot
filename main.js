@@ -129,7 +129,7 @@ global.reloadHandler = function (restatConn) {
   }
 
   conn.welcome = '*╔══════════════*\n*╟❧ @subject*\n*╠══════════════*\n*╟❧ @user*\n*╟❧ 𝙱𝙸𝙴𝙽𝚅𝙴𝙽𝙸𝙳𝙾/𝙰* \n*║*\n*╟❧ 𝙳𝙴𝚂𝙲𝚁𝙸𝙿𝙲𝙸𝙾𝙽 𝙳𝙴𝙻 𝙶𝚁𝚄𝙿𝙾:*\n*╟❧* @desc\n*║*\n*╟❧ 𝙳𝙸𝚂𝙵𝚁𝚄𝚃𝙰 𝚃𝚄 𝙴𝚂𝚃𝙰𝙳𝙸𝙰!!*\n*╚══════════════*'
-  conn.bye = '*╔══════════════*\n*╟❧ @user*\n*╟❧ Bye Bye gordi nos vemos en la otra vida 👋🏻* \n*╚══════════════*'  
+  conn.bye = '*╔══════════════*\n*╟❧ @user*\n*╟❧ Adios pvto tqm no te olvides de tomar awita👋🏻* \n*╚══════════════*'  
   conn.spromote = '@user sekarang admin!'
   conn.sdemote = '@user sekarang bukan admin!'
   conn.handler = handler.handler.bind(conn)
